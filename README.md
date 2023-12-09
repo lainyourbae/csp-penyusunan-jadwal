@@ -1,5 +1,5 @@
 # csp-penyusunan-jadwal
-Input: template format json
+Input: template format json;
 Output: jadwal krs format csv
 Tools: Z3, python
 Constraints:
